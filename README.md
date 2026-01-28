@@ -1,2 +1,2 @@
 # Data-analysis-practice-
-Learn data analysis 
+Learning data analysis 
